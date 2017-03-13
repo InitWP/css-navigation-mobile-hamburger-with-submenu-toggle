@@ -1,0 +1,17 @@
+{
+	"name": "CSS: Mobile hamburger menu + toggleable submenu",
+	"type": "snippet",
+	"version": "0.1.0",
+	"description": "CSS for a hamburger menu with a touch-friendly submenu that can be toggled with a button. Handy for large menus.",
+	"files": [
+		"navigation-mobile-hamburger-andsubmenu-toggle.css"
+    ],
+	"actions": {
+		"insertAfter": {
+			"searchvalue": "* Mobile Menu */",
+			"files": [
+				"css/modules/navigation.css"
+			]
+		}
+	}
+}
