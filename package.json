@@ -8,7 +8,7 @@
     ],
 	"actions": {
 		"insertAfter": {
-			"searchvalue": "* Mobile Menu */",
+			"searchValue": "* Mobile Menu */",
 			"files": [
 				"css/modules/navigation.css"
 			]
