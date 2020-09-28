@@ -29,7 +29,7 @@
 
 .mainNavigation--toggle:after {
 	box-shadow: 0 10px 0 1px #000, 0 16px 0 1px #000, 0 22px 0 1px #000;
-	content: "";
+	content: "\00a0";
 	display: block;
 	height: 0;
 	position: absolute;
